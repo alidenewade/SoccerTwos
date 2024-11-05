@@ -1,0 +1,42 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1730732457",
+        "python_version": "3.10.12 (main, Sep 11 2024, 15:47:36) [GCC 11.4.0]",
+        "command_line_arguments": "/usr/local/bin/mlagents-learn /content/drive/MyDrive/HuggingFace/SoccerTwos/SoccerTwos.yaml --run-id=soccer_training --resume --results-dir=/content/drive/MyDrive/HuggingFace/SoccerTwos/results --no-graphics",
+        "mlagents_version": "1.1.0",
+        "mlagents_envs_version": "1.1.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "2.5.0+cu121",
+        "numpy_version": "1.23.5",
+        "end_time_seconds": "1730732517"
+    },
+    "total": 60.15080367000019,
+    "count": 1,
+    "self": 0.03158646099973339,
+    "children": {
+        "run_training.setup": {
+            "total": 0.058946388000094885,
+            "count": 1,
+            "self": 0.058946388000094885
+        },
+        "TrainerController.start_learning": {
+            "total": 60.06027082100036,
+            "count": 1,
+            "self": 0.0006577970002581424,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 60.05958237899995,
+                    "count": 1,
+                    "self": 60.05958237899995
+                },
+                "TrainerController._save_models": {
+                    "total": 3.064500015170779e-05,
+                    "count": 1,
+                    "self": 3.064500015170779e-05
+                }
+            }
+        }
+    }
+}

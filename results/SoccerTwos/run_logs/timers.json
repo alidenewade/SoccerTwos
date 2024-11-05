@@ -1,0 +1,75 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1730746185",
+        "python_version": "3.10.12 | packaged by conda-forge | (main, Jun 23 2023, 22:40:32) [GCC 12.3.0]",
+        "command_line_arguments": "/root/miniconda3/envs/rl/bin/mlagents-learn /root/hfRL/ml/unit7_colab_mod/HuggingFace/SoccerTwos/SoccerTwos.yaml --env=/root/hfRL/ml/unit7_colab_mod/HuggingFace/SoccerTwos/SoccerTwos.x86_64 --run-id=SoccerTwos --results-dir=/root/hfRL/ml/unit7_colab_mod/HuggingFace/SoccerTwos/results --resume --no-graphics --base-port=6005",
+        "mlagents_version": "1.2.0.dev0",
+        "mlagents_envs_version": "1.2.0.dev0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "2.5.1+cu124",
+        "numpy_version": "1.23.5",
+        "end_time_seconds": "1730746191"
+    },
+    "total": 6.320760998000196,
+    "count": 1,
+    "self": 0.42632721700010734,
+    "children": {
+        "run_training.setup": {
+            "total": 0.02676911300000029,
+            "count": 1,
+            "self": 0.02676911300000029
+        },
+        "TrainerController.start_learning": {
+            "total": 5.867664668000089,
+            "count": 1,
+            "self": 0.00016048600036810967,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 2.381615996999926,
+                    "count": 1,
+                    "self": 2.381615996999926
+                },
+                "TrainerController.advance": {
+                    "total": 0.0012536289998479333,
+                    "count": 1,
+                    "self": 1.281799973185116e-05,
+                    "children": {
+                        "env_step": {
+                            "total": 0.0012408110001160821,
+                            "count": 1,
+                            "self": 0.0005210380002154125,
+                            "children": {
+                                "SubprocessEnvManager._take_step": {
+                                    "total": 0.0007197729999006697,
+                                    "count": 1,
+                                    "self": 3.455799992480024e-05,
+                                    "children": {
+                                        "TorchPolicy.evaluate": {
+                                            "total": 0.0006852149999758694,
+                                            "count": 1,
+                                            "self": 0.0006852149999758694
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "TrainerController._save_models": {
+                    "total": 3.4846345559999463,
+                    "count": 1,
+                    "self": 0.004822234999892316,
+                    "children": {
+                        "RLTrainer._checkpoint": {
+                            "total": 3.479812321000054,
+                            "count": 1,
+                            "self": 3.479812321000054
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

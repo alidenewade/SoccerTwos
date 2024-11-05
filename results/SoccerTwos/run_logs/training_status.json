@@ -1,0 +1,57 @@
+{
+    "SoccerTwos": {
+        "elo": 1198.0200642540135,
+        "checkpoints": [
+            {
+                "steps": 239214,
+                "file_path": "/content/drive/MyDrive/HuggingFace/SoccerTwos/results/SoccerTwos/SoccerTwos/SoccerTwos-239214.onnx",
+                "reward": 0.0,
+                "creation_time": 1730734423.5271437,
+                "auxillary_file_paths": [
+                    "/content/drive/MyDrive/HuggingFace/SoccerTwos/results/SoccerTwos/SoccerTwos/SoccerTwos-239214.pt"
+                ]
+            },
+            {
+                "steps": 417160,
+                "file_path": "/content/drive/MyDrive/HuggingFace/SoccerTwos/results/SoccerTwos/SoccerTwos/SoccerTwos-417160.onnx",
+                "reward": 0.0,
+                "creation_time": 1730734855.1263084,
+                "auxillary_file_paths": [
+                    "/content/drive/MyDrive/HuggingFace/SoccerTwos/results/SoccerTwos/SoccerTwos/SoccerTwos-417160.pt"
+                ]
+            },
+            {
+                "steps": 0,
+                "file_path": "/content/drive/MyDrive/HuggingFace/SoccerTwos/results/SoccerTwos/SoccerTwos/SoccerTwos-0.onnx",
+                "reward": null,
+                "creation_time": 1730738570.1176279,
+                "auxillary_file_paths": [
+                    "/content/drive/MyDrive/HuggingFace/SoccerTwos/results/SoccerTwos/SoccerTwos/SoccerTwos-0.pt"
+                ]
+            },
+            {
+                "steps": 0,
+                "file_path": "/root/hfRL/ml/unit7_colab_mod/HuggingFace/SoccerTwos/results/SoccerTwos/SoccerTwos/SoccerTwos-0.onnx",
+                "reward": null,
+                "creation_time": 1730746191.2885127,
+                "auxillary_file_paths": [
+                    "/root/hfRL/ml/unit7_colab_mod/HuggingFace/SoccerTwos/results/SoccerTwos/SoccerTwos/SoccerTwos-0.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 0,
+            "file_path": "/root/hfRL/ml/unit7_colab_mod/HuggingFace/SoccerTwos/results/SoccerTwos/SoccerTwos.onnx",
+            "reward": null,
+            "creation_time": 1730746191.2885127,
+            "auxillary_file_paths": [
+                "/root/hfRL/ml/unit7_colab_mod/HuggingFace/SoccerTwos/results/SoccerTwos/SoccerTwos/SoccerTwos-0.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.2.0.dev0",
+        "torch_version": "2.5.1+cu124"
+    }
+}
