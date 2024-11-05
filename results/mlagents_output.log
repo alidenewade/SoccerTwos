@@ -353,3 +353,97 @@ To enable the following instructions: AVX2 FMA, in other operations, rebuild Ten
 [INFO] SoccerTwos. Step: 2630000. Time Elapsed: 6974.049 s. Mean Reward: 0.000. Mean Group Reward: -0.089. Training. ELO: 1193.683.
 [INFO] SoccerTwos. Step: 2640000. Time Elapsed: 6995.586 s. Mean Reward: 0.000. Mean Group Reward: 0.000. Training. ELO: 1195.047.
 [INFO] SoccerTwos. Step: 2650000. Time Elapsed: 7032.162 s. Mean Reward: 0.000. Mean Group Reward: -0.060. Training. ELO: 1195.296.
+[INFO] SoccerTwos. Step: 2660000. Time Elapsed: 7050.278 s. Mean Reward: 0.000. Mean Group Reward: 0.109. Training. ELO: 1196.169.
+[INFO] SoccerTwos. Step: 2670000. Time Elapsed: 7102.361 s. Mean Reward: 0.000. Mean Group Reward: 0.042. Training. ELO: 1195.698.
+[INFO] SoccerTwos. Step: 2680000. Time Elapsed: 7115.152 s. Mean Reward: 0.000. Mean Group Reward: -0.029. Training. ELO: 1195.273.
+[INFO] SoccerTwos. Step: 2690000. Time Elapsed: 7161.162 s. Mean Reward: 0.000. Mean Group Reward: -0.009. Training. ELO: 1195.273.
+[INFO] SoccerTwos. Step: 2700000. Time Elapsed: 7185.626 s. Mean Reward: 0.000. Mean Group Reward: 0.370. Training. ELO: 1196.188.
+[INFO] SoccerTwos. Step: 2710000. Time Elapsed: 7213.070 s. Mean Reward: 0.000. Mean Group Reward: -0.182. Training. ELO: 1195.478.
+[INFO] SoccerTwos. Step: 2720000. Time Elapsed: 7235.057 s. Mean Reward: 0.000. Mean Group Reward: 0.166. Training. ELO: 1195.222.
+[INFO] SoccerTwos. Step: 2730000. Time Elapsed: 7269.088 s. Mean Reward: 0.000. Mean Group Reward: 0.063. Training. ELO: 1194.883.
+[INFO] SoccerTwos. Step: 2740000. Time Elapsed: 7300.536 s. Mean Reward: 0.000. Mean Group Reward: 0.069. Training. ELO: 1195.863.
+[INFO] SoccerTwos. Step: 2750000. Time Elapsed: 7320.712 s. Mean Reward: 0.000. Mean Group Reward: -0.247. Training. ELO: 1194.941.
+[INFO] SoccerTwos. Step: 2760000. Time Elapsed: 7362.158 s. Mean Reward: 0.000. Mean Group Reward: 0.149. Training. ELO: 1194.945.
+[INFO] SoccerTwos. Step: 2770000. Time Elapsed: 7380.882 s. Mean Reward: 0.000. Mean Group Reward: 0.185. Training. ELO: 1195.657.
+[INFO] SoccerTwos. Step: 2780000. Time Elapsed: 7417.313 s. Mean Reward: 0.000. Mean Group Reward: 0.125. Training. ELO: 1197.059.
+[INFO] SoccerTwos. Step: 2790000. Time Elapsed: 7444.279 s. Mean Reward: 0.000. Mean Group Reward: 0.174. Training. ELO: 1198.036.
+[INFO] SoccerTwos. Step: 2800000. Time Elapsed: 7479.706 s. Mean Reward: 0.000. Mean Group Reward: 0.017. Training.
+[INFO] SoccerTwos. Step: 2810000. Time Elapsed: 7496.984 s. Mean Reward: 0.000. Mean Group Reward: -0.200. Training. ELO: 1198.118.
+[INFO] SoccerTwos. Step: 2820000. Time Elapsed: 7540.606 s. Mean Reward: 0.000. Mean Group Reward: -0.043. Training. ELO: 1198.299.
+[INFO] SoccerTwos. Step: 2830000. Time Elapsed: 7564.180 s. Mean Reward: 0.000. Mean Group Reward: 0.319. Training. ELO: 1200.784.
+[INFO] SoccerTwos. Step: 2840000. Time Elapsed: 7609.408 s. Mean Reward: 0.000. Mean Group Reward: 0.110. Training. ELO: 1202.003.
+[INFO] SoccerTwos. Step: 2850000. Time Elapsed: 7628.516 s. Mean Reward: 0.000. Mean Group Reward: 0.000. Training.
+[INFO] SoccerTwos. Step: 2860000. Time Elapsed: 7649.912 s. Mean Reward: 0.000. Mean Group Reward: 0.011. Training. ELO: 1202.719.
+[INFO] SoccerTwos. Step: 2870000. Time Elapsed: 7695.951 s. Mean Reward: 0.000. Mean Group Reward: 0.020. Training. ELO: 1202.957.
+[INFO] SoccerTwos. Step: 2880000. Time Elapsed: 7710.167 s. Mean Reward: 0.000. Mean Group Reward: 0.000. Training.
+[INFO] SoccerTwos. Step: 2890000. Time Elapsed: 7745.686 s. Mean Reward: 0.000. Mean Group Reward: 0.086. Training. ELO: 1203.673.
+[INFO] SoccerTwos. Step: 2900000. Time Elapsed: 7765.561 s. Mean Reward: 0.000. Mean Group Reward: 0.207. Training. ELO: 1206.541.
+[INFO] SoccerTwos. Step: 2910000. Time Elapsed: 7810.651 s. Mean Reward: 0.000. Mean Group Reward: 0.114. Training. ELO: 1209.421.
+[INFO] SoccerTwos. Step: 2920000. Time Elapsed: 7836.557 s. Mean Reward: 0.000. Mean Group Reward: 0.155. Training. ELO: 1210.529.
+[INFO] SoccerTwos. Step: 2930000. Time Elapsed: 7871.456 s. Mean Reward: 0.000. Mean Group Reward: 0.000. Training.
+[INFO] SoccerTwos. Step: 2940000. Time Elapsed: 7890.908 s. Mean Reward: 0.000. Mean Group Reward: 0.000. Training.
+[INFO] SoccerTwos. Step: 2950000. Time Elapsed: 7932.269 s. Mean Reward: 0.000. Mean Group Reward: -0.148. Training. ELO: 1211.479.
+[INFO] SoccerTwos. Step: 2960000. Time Elapsed: 7945.083 s. Mean Reward: 0.000. Mean Group Reward: 0.167. Training. ELO: 1211.597.
+[INFO] SoccerTwos. Step: 2970000. Time Elapsed: 7983.656 s. Mean Reward: 0.000. Mean Group Reward: -0.308. Training. ELO: 1210.915.
+[INFO] SoccerTwos. Step: 2980000. Time Elapsed: 8008.203 s. Mean Reward: 0.000. Mean Group Reward: 0.043. Training. ELO: 1211.160.
+[INFO] SoccerTwos. Step: 2990000. Time Elapsed: 8040.718 s. Mean Reward: 0.000. Mean Group Reward: 0.000. Training.
+[INFO] SoccerTwos. Step: 3000000. Time Elapsed: 8077.679 s. Mean Reward: 0.000. Mean Group Reward: 0.116. Training. ELO: 1212.187.
+[INFO] Exported /root/hfRL/ml/unit7_colab_mod/HuggingFace/SoccerTwos/results/SoccerTwos/SoccerTwos/SoccerTwos-2999886.onnx
+[INFO] SoccerTwos. Step: 3010000. Time Elapsed: 8102.476 s. Mean Reward: 0.000. Mean Group Reward: 0.000. Training.
+[INFO] SoccerTwos. Step: 3020000. Time Elapsed: 8142.470 s. Mean Reward: 0.000. Mean Group Reward: -0.125. Training. ELO: 1211.649.
+[INFO] SoccerTwos. Step: 3030000. Time Elapsed: 8164.797 s. Mean Reward: 0.000. Mean Group Reward: 0.048. Training. ELO: 1212.101.
+[INFO] SoccerTwos. Step: 3040000. Time Elapsed: 8195.997 s. Mean Reward: 0.000. Mean Group Reward: 0.097. Training. ELO: 1212.073.
+[INFO] SoccerTwos. Step: 3050000. Time Elapsed: 8217.249 s. Mean Reward: 0.000. Mean Group Reward: 0.000. Training.
+[INFO] SoccerTwos. Step: 3060000. Time Elapsed: 8253.203 s. Mean Reward: 0.000. Mean Group Reward: 0.016. Training. ELO: 1212.060.
+[INFO] SoccerTwos. Step: 3070000. Time Elapsed: 8274.948 s. Mean Reward: 0.000. Mean Group Reward: 0.000. Training.
+[INFO] SoccerTwos. Step: 3080000. Time Elapsed: 8303.389 s. Mean Reward: 0.000. Mean Group Reward: -0.078. Training. ELO: 1214.082.
+[INFO] SoccerTwos. Step: 3090000. Time Elapsed: 8336.347 s. Mean Reward: 0.000. Mean Group Reward: -0.159. Training. ELO: 1214.128.
+[INFO] SoccerTwos. Step: 3100000. Time Elapsed: 8387.178 s. Mean Reward: 0.000. Mean Group Reward: -0.277. Training. ELO: 1213.677.
+[INFO] SoccerTwos. Step: 3110000. Time Elapsed: 8402.256 s. Mean Reward: 0.000. Mean Group Reward: 0.099. Training. ELO: 1213.803.
+[INFO] SoccerTwos. Step: 3120000. Time Elapsed: 8435.772 s. Mean Reward: 0.000. Mean Group Reward: 0.000. Training.
+[INFO] SoccerTwos. Step: 3130000. Time Elapsed: 8459.380 s. Mean Reward: 0.000. Mean Group Reward: -0.182. Training. ELO: 1213.285.
+[INFO] SoccerTwos. Step: 3140000. Time Elapsed: 8496.054 s. Mean Reward: 0.000. Mean Group Reward: -0.167. Training. ELO: 1213.034.
+[INFO] SoccerTwos. Step: 3150000. Time Elapsed: 8520.921 s. Mean Reward: 0.000. Mean Group Reward: -0.227. Training. ELO: 1212.120.
+[INFO] SoccerTwos. Step: 3160000. Time Elapsed: 8541.941 s. Mean Reward: 0.000. Mean Group Reward: -0.378. Training. ELO: 1210.133.
+[INFO] SoccerTwos. Step: 3170000. Time Elapsed: 8577.327 s. Mean Reward: 0.000. Mean Group Reward: -0.026. Training. ELO: 1210.017.
+[INFO] SoccerTwos. Step: 3180000. Time Elapsed: 8586.499 s. Mean Reward: 0.000. Mean Group Reward: -0.182. Training. ELO: 1209.273.
+[INFO] SoccerTwos. Step: 3190000. Time Elapsed: 8626.506 s. Mean Reward: 0.000. Mean Group Reward: -0.132. Training. ELO: 1208.612.
+[INFO] SoccerTwos. Step: 3200000. Time Elapsed: 8651.508 s. Mean Reward: 0.000. Mean Group Reward: -0.035. Training. ELO: 1208.797.
+[INFO] SoccerTwos. Step: 3210000. Time Elapsed: 8674.638 s. Mean Reward: 0.000. Mean Group Reward: 0.153. Training. ELO: 1209.048.
+[INFO] SoccerTwos. Step: 3220000. Time Elapsed: 8716.824 s. Mean Reward: 0.000. Mean Group Reward: 0.174. Training. ELO: 1209.630.
+[INFO] SoccerTwos. Step: 3230000. Time Elapsed: 8750.621 s. Mean Reward: 0.000. Mean Group Reward: 0.191. Training. ELO: 1210.045.
+[INFO] SoccerTwos. Step: 3240000. Time Elapsed: 8777.257 s. Mean Reward: 0.000. Mean Group Reward: -0.182. Training.
+[INFO] SoccerTwos. Step: 3250000. Time Elapsed: 8802.311 s. Mean Reward: 0.000. Mean Group Reward: -0.120. Training. ELO: 1210.377.
+[INFO] SoccerTwos. Step: 3260000. Time Elapsed: 8829.641 s. Mean Reward: 0.000. Mean Group Reward: 0.067. Training. ELO: 1210.761.
+[INFO] SoccerTwos. Step: 3270000. Time Elapsed: 8855.300 s. Mean Reward: 0.000. Mean Group Reward: 0.092. Training. ELO: 1213.054.
+[INFO] SoccerTwos. Step: 3280000. Time Elapsed: 8880.259 s. Mean Reward: 0.000. Mean Group Reward: -0.006. Training. ELO: 1213.630.
+[INFO] SoccerTwos. Step: 3290000. Time Elapsed: 8919.227 s. Mean Reward: 0.000. Mean Group Reward: 0.105. Training. ELO: 1214.041.
+[INFO] SoccerTwos. Step: 3300000. Time Elapsed: 8932.025 s. Mean Reward: 0.000. Mean Group Reward: -0.364. Training. ELO: 1214.041.
+[INFO] SoccerTwos. Step: 3310000. Time Elapsed: 8974.780 s. Mean Reward: 0.000. Mean Group Reward: -0.010. Training. ELO: 1214.416.
+[INFO] SoccerTwos. Step: 3320000. Time Elapsed: 8995.589 s. Mean Reward: 0.000. Mean Group Reward: -0.021. Training. ELO: 1215.099.
+[INFO] SoccerTwos. Step: 3330000. Time Elapsed: 9017.829 s. Mean Reward: 0.000. Mean Group Reward: -0.182. Training.
+[INFO] SoccerTwos. Step: 3340000. Time Elapsed: 9051.650 s. Mean Reward: 0.000. Mean Group Reward: 0.000. Training.
+[INFO] SoccerTwos. Step: 3350000. Time Elapsed: 9073.177 s. Mean Reward: 0.000. Mean Group Reward: 0.155. Training. ELO: 1215.261.
+[INFO] SoccerTwos. Step: 3360000. Time Elapsed: 9101.868 s. Mean Reward: 0.000. Mean Group Reward: -0.200. Training. ELO: 1215.224.
+[INFO] SoccerTwos. Step: 3370000. Time Elapsed: 9123.707 s. Mean Reward: 0.000. Mean Group Reward: -0.200. Training. ELO: 1214.967.
+[INFO] SoccerTwos. Step: 3380000. Time Elapsed: 9149.333 s. Mean Reward: 0.000. Mean Group Reward: -0.170. Training. ELO: 1214.629.
+[INFO] SoccerTwos. Step: 3390000. Time Elapsed: 9181.769 s. Mean Reward: 0.000. Mean Group Reward: -0.082. Training. ELO: 1214.962.
+[INFO] SoccerTwos. Step: 3400000. Time Elapsed: 9208.387 s. Mean Reward: 0.000. Mean Group Reward: -0.200. Training. ELO: 1214.962.
+[INFO] SoccerTwos. Step: 3410000. Time Elapsed: 9225.987 s. Mean Reward: 0.000. Mean Group Reward: 0.026. Training. ELO: 1215.319.
+[INFO] SoccerTwos. Step: 3420000. Time Elapsed: 9268.619 s. Mean Reward: 0.000. Mean Group Reward: 0.000. Training.
+[INFO] SoccerTwos. Step: 3430000. Time Elapsed: 9303.025 s. Mean Reward: 0.000. Mean Group Reward: -0.080. Training. ELO: 1216.551.
+[INFO] SoccerTwos. Step: 3440000. Time Elapsed: 9330.052 s. Mean Reward: 0.000. Mean Group Reward: -0.052. Training. ELO: 1216.491.
+[INFO] SoccerTwos. Step: 3450000. Time Elapsed: 9349.701 s. Mean Reward: 0.000. Mean Group Reward: 0.164. Training. ELO: 1216.906.
+[INFO] SoccerTwos. Step: 3460000. Time Elapsed: 9384.877 s. Mean Reward: 0.000. Mean Group Reward: -0.174. Training. ELO: 1216.828.
+[INFO] SoccerTwos. Step: 3470000. Time Elapsed: 9409.683 s. Mean Reward: 0.000. Mean Group Reward: -0.138. Training. ELO: 1217.624.
+[INFO] SoccerTwos. Step: 3480000. Time Elapsed: 9434.291 s. Mean Reward: 0.000. Mean Group Reward: 0.000. Training. ELO: 1216.865.
+[INFO] SoccerTwos. Step: 3490000. Time Elapsed: 9461.965 s. Mean Reward: 0.000. Mean Group Reward: -0.290. Training. ELO: 1216.670.
+[INFO] SoccerTwos. Step: 3500000. Time Elapsed: 9484.906 s. Mean Reward: 0.000. Mean Group Reward: -0.615. Training. ELO: 1216.877.
+[INFO] Exported /root/hfRL/ml/unit7_colab_mod/HuggingFace/SoccerTwos/results/SoccerTwos/SoccerTwos/SoccerTwos-3499376.onnx
+[INFO] SoccerTwos. Step: 3510000. Time Elapsed: 9530.790 s. Mean Reward: 0.000. Mean Group Reward: -0.200. Training. ELO: 1217.561.
+[INFO] SoccerTwos. Step: 3520000. Time Elapsed: 9543.009 s. Mean Reward: 0.000. Mean Group Reward: 0.102. Training. ELO: 1217.876.
+[INFO] SoccerTwos. Step: 3530000. Time Elapsed: 9578.981 s. Mean Reward: 0.000. Mean Group Reward: 0.083. Training. ELO: 1217.876.
+[INFO] SoccerTwos. Step: 3540000. Time Elapsed: 9597.568 s. Mean Reward: 0.000. Mean Group Reward: -0.053. Training. ELO: 1217.501.
+[INFO] SoccerTwos. Step: 3550000. Time Elapsed: 9634.336 s. Mean Reward: 0.000. Mean Group Reward: -0.162. Training. ELO: 1216.216.
+[INFO] SoccerTwos. Step: 3560000. Time Elapsed: 9656.600 s. Mean Reward: 0.000. Mean Group Reward: -0.325. Training. ELO: 1216.293.
+[INFO] SoccerTwos. Step: 3570000. Time Elapsed: 9687.921 s. Mean Reward: 0.000. Mean Group Reward: 0.115. Training. ELO: 1215.624.
